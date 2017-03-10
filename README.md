@@ -5,11 +5,11 @@ Little did you know, this was not as easy as you thought. 😥
 
 Well not for me anyway... 👶
 
-🚁 But the world helped me. And so I will help to world. 🎁
+🚁 But the world (ie. *cbll*) helped me. And so I will help to world. 🎁
 
 I hope this will help people.
 
-And many thank to CBLL who made all this possible. And freed me from gloom and despair.
+And many thanks to *cbll* who made all this possible. And freed me from gloom and despair.
 
 Thank you from the bottom of my ❤️ !
 
