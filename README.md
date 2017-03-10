@@ -1,6 +1,7 @@
 # How to bundle three ES6 classes in one file using webpack ?
 
 You have created a modular library and want to bundle it for npm. 😎
+
 Little did you know, this was not as easy as you thought. 😥
 
 Well not for me anyway... 👶
@@ -9,7 +10,7 @@ Well not for me anyway... 👶
 
 I hope this will help people.
 
-And many thanks to *cbll* who made all this possible. And freed me from gloom and despair.
+And many thanks to *cbll* and *Michael Jungo* who made all this possible. And freed me from gloom and despair.
 
 Thank you from the bottom of my ❤️ !
 
