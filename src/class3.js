@@ -1,15 +1,4 @@
-// class One {
-//   constructor() {
-//     this.isGreat = true
-//   }
-//
-//   whatIsGreat() {
-//     return (this)
-//   }
-// }
-//
-// module.exports.One = One
-const Three = class Three {
+export default class Three {
   constructor() {
     this.isHorrible = true
   }
@@ -18,5 +7,3 @@ const Three = class Three {
     return (this)
   }
 }
-
-export { Three }
