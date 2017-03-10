@@ -1,0 +1,35 @@
+{
+  "name": "experiment-babylon-js",
+  "version": "2.5.1",
+  "description": "Bundled version of Babylon-js 2D and 3D for experiment-js",
+  "main": "index.js",
+  "author": "Albert Buchard",
+  "license": "Apache 2.0",
+  "scripts": {
+    "webp": "webpack --progress --colors --watch && PROD_ENV=1 webpack --progress --colors --watch",
+    "patchPublish": "npm version patch && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/albertbuchard/experiment-babylon-js.git"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-core": "^6.23.1",
+    "babel-eslint": "^7.1.1",
+    "babel-jest": "^19.0.0",
+    "babel-loader": "^6.3.2",
+    "babel-preset-env": "^1.2.0",
+    "coveralls": "^2.12.0",
+    "cross-env": "^3.2.3",
+    "eslint": "^3.17.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0",
+    "husky": "^0.13.2",
+    "jest": "^19.0.2",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}

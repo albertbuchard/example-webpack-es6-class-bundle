@@ -1,0 +1,18 @@
+{
+  "env": {
+        "browser": true,
+        "jest": true
+    },
+    "extends": ["airbnb"],
+    "rules": {
+        "semi": [2, "never"],
+        "no-unexpected-multiline": 2,
+        "no-console": 0,
+        "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
+        "no-prototype-builtins": 0,
+        "max-len": ["error", {"code": 100, "ignoreComments": true}],
+        "no-extend-native": 0,
+        "no-param-reassign": 0,
+        "no-underscore-dangle": 0
+    }
+}
