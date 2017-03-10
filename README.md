@@ -10,7 +10,7 @@ Well not for me anyway... 👶
 
 I hope this will help people.
 
-And many thanks to *cbll* and *Michael Jungo* who made all this possible. And freed me from gloom and despair.
+And many thanks to _cbll_ and _Michael Jungo_ who made all this possible. And freed me from gloom and despair.
 
 Thank you from the bottom of my ❤️ !
 
